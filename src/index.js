@@ -1,4 +1,5 @@
-import React, {Component, PropTypes} from 'react';
+import React, {Component} from 'react';
+import PropTypes from 'prop-types'
 import {getSelection, setSelection} from './domElementSelection';
 import abstractNumberInput from './abstract-number-format-input/index';
 
