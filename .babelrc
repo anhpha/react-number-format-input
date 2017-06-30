@@ -1,4 +1,3 @@
 {
-  "presets": ["stage-0"],
-  "loose": "all"
+  "presets": ["es2015", "stage-2", "react"]
 }
